@@ -203,8 +203,8 @@ Diabetes-Readmission-Prediction/
 │   └── Diabetes_Readmission_Dashboard.pbix
 │
 ├── images/
-│   ├── Diabetes Executive Dashboard.png
-│   └── Diabetes Risk Dashboard.png
+│   ├── Dashboard overview.png
+│   └── Risk Factor analysis.png
 │
 ├── notebooks/
 │   └── diabetes_prediction.ipynb
