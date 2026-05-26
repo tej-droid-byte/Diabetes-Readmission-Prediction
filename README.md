@@ -12,15 +12,13 @@ The project includes predictive analytics and interactive Power BI dashboards fo
 
 ### Executive Healthcare Dashboard
 
-![Dashboard](images/Diabetes Executive Dashboard.png)
+![Dashboard](images/Dashboard%20overview.png)
 
 ---
 
 ### Risk Factor Analytics Dashboard
 
-![Dashboard](images/Diabetes Risk Dashboard.png)
-
----
+![Dashboard](images/Risk%20Factor%20analysis.png)
 
 # 📌 Project Description
 
